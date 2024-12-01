@@ -1,3 +1,6 @@
 /test-results
 /playwright-report
 /.auth
+/node_modules/
+/playwright/.cache/
+/blob-report/
